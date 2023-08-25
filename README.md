@@ -1,4 +1,3 @@
-# Pizza-Sales-Dashboard
 
 # Maven-Analytics'-Pizza-Sales-using-BI-tool-PowerBI
 Analysis by Revenue, Orders, Peak days/Hours, Pizza
